@@ -1,2 +1,9 @@
-{
+.sc-header, .sc-launcher  {
+  background-color: rgb(20 51 95) !important;
 }
+.sc-header-image{
+    background-image: url("./chatlogo.png");
+}
+.sc-header-image img{
+   display: none;
+}c
